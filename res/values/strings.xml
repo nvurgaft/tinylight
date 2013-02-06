@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Tiny Light</string>
+    <string name="menu_settings">About</string>
+    <string name="title_activity_main">Tiny Light</string>
+    
+    <string name="turn_btn">Turn on!</string>
+    <string name="credit">written by nick, 2012</string>
+    <string name="email">slipperygate@gmail.com</string>
+    <string name="cont_desc">tiny light icon</string>
+
+</resources>
